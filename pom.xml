@@ -9,7 +9,7 @@
   <version>1</version>
 
   <name>myname</name>
-  <url>https://github.com/JohnJohnsonTaren/Module1-Maven.git</url>
+  <url>https://github.com/JohnJohnsonTaren/Module1Dev-Maven.git</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
